@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O80FignclQ6DmXuqnicPQhY9mir1kt7CSmQQXxR4Uo4Frbz2YbQPlXvO+cDtqlHMxHFMOON4/UMBc1AYCrVT/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sebastian Ramos\\source\\repos\\corro-app\\corro-app\\corro-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian Ramos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Sebastian Ramos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

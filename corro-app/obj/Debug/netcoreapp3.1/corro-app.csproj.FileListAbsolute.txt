@@ -1,0 +1,16 @@
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\corro-app.exe
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\corro-app.deps.json
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\corro-app.runtimeconfig.json
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\corro-app.runtimeconfig.dev.json
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\corro-app.dll
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\corro-app.pdb
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.csproj.AssemblyReference.cache
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.AssemblyInfoInputs.cache
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.AssemblyInfo.cs
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.dll
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.pdb
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.genruntimeconfig.cache
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sebastian Ramos\source\repos\corro-app\corro-app\obj\Debug\netcoreapp3.1\corro-app.csproj.CopyComplete

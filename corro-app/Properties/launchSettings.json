@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "corro-app": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
